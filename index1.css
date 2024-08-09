@@ -1,0 +1,32 @@
+ul{
+    list-style: none;
+   
+}
+
+ul>li>a
+{
+    text-decoration: none;
+}
+
+li{
+    width: 150px;
+    height: 33px;
+    background-color: rgb(42, 165, 50);
+    color:white;
+    border-radius: 15px;
+    text-align:center;
+    font-family: monospace;
+    border: 7px solid black;
+    padding-top: 15px;
+    /* display: inline-block; */
+    cursor: pointer;
+    margin-left: 50px;
+    margin: 19px;
+    font-size: 15px;
+    text-transform: uppercase;
+}
+li:hover
+{
+    background-color: blueviolet;
+    color: rgb(68, 255, 0);
+}

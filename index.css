@@ -1,0 +1,34 @@
+.A
+{
+    width: 200px;
+    height: 200px;
+    background-color: rgb(255, 106, 0);
+    border-radius: 15px;
+    
+    text-align: center;
+    font-size: 30px;
+    font-family: monospace;
+    color: aquamarine;
+    /* display:inline; */
+    /* visibility: hidden; */
+}
+
+.B{
+    width: 200px;
+    height: 200px;
+    background-color:white(0, 157, 255);
+    border-radius: 15px;
+    text-align: center;
+    font-size: 30px;
+    border-color: black;
+    font-family: monospace;
+}
+.C{
+    width: 200px;
+    height: 200px;
+    background-color: rgb(6, 101, 20);
+    border-radius: 15px;
+    text-align: center;
+    font-size: 30px;
+    font-family: monospace;
+}

@@ -1,0 +1,12 @@
+h1::first-letter{
+    background-color: rgb(85, 0, 255);
+    font-size: 344px;
+    border-radius: 367px;
+    font-style: italic;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-decoration-color: blueviolet;
+    
+}
+h1{
+    color:violet;
+}

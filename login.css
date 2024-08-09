@@ -1,0 +1,16 @@
+button{
+    width: 180px;
+    height: 30px;
+    background-color: rgb(42, 165, 50);
+    color:white;
+    text-align:center;
+    font-family: monospace;
+    padding-top: 1px;
+    /* display: inline-block; */
+    cursor: pointer;
+    margin: 7px;
+    text-transform: uppercase;
+}
+button:hover{
+    opacity:0.6;
+}
